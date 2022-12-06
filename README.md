@@ -9,7 +9,7 @@
 <img src="https://telegra.ph/file/a9427f14542cab012612c.jpg" alt="Img" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="AnggaXyzz" src="https://img.shields.io/badge/ANGGA%20XYZZ-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AnggaXyzz" src="https://img.shields.io/badge/AnggaXyzz-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://wa.me/6281997496643"><img title="Author" src="https://img.shields.io/badge/Author-AnggaXyzz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/JarotOffc">JAROT OFFC</a> to make it public
+Project created by <a href="https://github.com/AnggaXyzZ">AnggaXyzz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -47,7 +47,7 @@ cd AnggaMdV5
 
 npm start
 ```
-## `For Termux/Ssh/Ubuntu`
+## For Termux/Ssh/Ubuntu
 ```bash
 apt update
 apt upgrade
@@ -63,7 +63,7 @@ git clone https://github.com/AnggaDev/AnggaMdV5
 cd AnggaMdV5
 npm start
 ```
-## `For VPS`
+## For VPS
 ```bash
 apt install nodejs 
 apt install git 
@@ -75,7 +75,7 @@ git clone https://github.com/AnggaDev/AnggaMdV5
 cd AnggaMdV5
 npm start
 ```
-## `For 24/7 Activation (Termux)`
+## For 24/7 Activation (Termux)
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
@@ -99,7 +99,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ![AnggaXyzz GitHub stats](https://github-readme-stats.vercel.app/api?username=AnggaXyzz&show_icons=true&theme=radical)
 
-<p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaXyzz&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/AnggaXyzZ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaXyzz&theme=radical&layout=compact"></a></p>
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
