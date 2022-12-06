@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/AnggaXyzZ">AnggaXyzz</a> to make 
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
-## `Clone Repo & Installation dependencies`
+## Clone Repo & Installation dependencies
 ```bash
 git clone https://github.com/AnggaDev/AnggaMdV5
 cd AnggaMdV5
@@ -90,7 +90,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 ## Support Me
 
-| BuildPack | LINK |
+| DONASI | LINK |
 |--------|--------|
 | **SAWERIA** |[here](https://saweria.co/AnggaXyzz) |
 
