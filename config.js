@@ -14,7 +14,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281997496643'] //ur owner number
+global.vcardowner = ['6288902980987'] //ur owner number
 global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur owner name
 global.developer = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //nama lu
 global.ytname = "YT: 𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur yt chanel name
@@ -23,23 +23,23 @@ global.sgc = "https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO"
 global.location = "Banten" //ur location
 
 //bot bomdy 
-global.owner = ['6281997496643'] //ur number
-global.ownernomer = "6281997496643" //ur number
-global.ownertag = '6281997496643' //ur tag number
-global.premium = ['6281997496643'] //ur premium number
-global.botname = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇' //ur bot name
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇"
-global.linkz = "https://youtube.com/@AnggaXyzz" //your theme url which will be displayed on whatsapp
-global.dana = "6281997496643"
-global.gopay = "6281997496643"
-global.pulsa = "6281997496643"
-global.websitex = "https://youtube.com/@AnggaXyzz" //ur website to be displayed
+global.owner = ['6288902980987'] //ur number
+global.ownernomer = "6288902980987" //ur number
+global.ownertag = '6288902980987' //ur tag number
+global.premium = ['6288902980987'] //ur premium number
+global.botname = '𝗔SANS_BOTZ𝘇' //ur bot name
+global.ownername = "𝗔SANS_HIJRAH𝘇"
+global.linkz = "https://youtube.com/@SANS_HIJRAH" //your theme url which will be displayed on whatsapp
+global.dana = "6288227797037"
+global.gopay = "6288902980987"
+global.pulsa = "6288902980987"
+global.websitex = "https://youtube.com/@SANS_HIJRAH" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
-global.botscript = 'https://github.com/AnggaXyzZ' //script link
+global.botscript = 'https://github.com/Ikhsangz' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇" //ur sticker watermark author
-global.wm = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur watermark
+global.wm = "𝗔SUBS YT:SANS_HIJRAH𝘇" //ur watermark
 
 // Other
 global.sessionName = 'Session'
@@ -60,7 +60,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 5
 }
 global.thum = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./Media/theme/jarot.jpg") //ur logo pic
